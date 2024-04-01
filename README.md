@@ -18,7 +18,7 @@ One of the highlights of my career has been sharing my knowledge with others. As
 My expertise lies in spatial data analysis, cartography, remote sensing, and more. Whether it's analyzing complex datasets or creating visually stunning maps, I thrive on turning data into actionable insights that drive informed decision-making.
 
 #### Conclusion
-In a nutshell, I'm Hermenegildo Luis - your friendly neighborhood GIS expert. With a blend of academic knowledge, practical skills, and a passion for making a difference, I'm here to help you navigate the world of Geographic Information Systems with ease. Let's embark on this journey together and unlock the true potential of spatial data!
+In a nutshell, I'm Hermenegildo Luis - your friendly neighborhood Data and GIS Analyst. With a blend of academic knowledge, practical skills, and a passion for making a difference, I'm here to help you navigate the world of Data and Geographic Information Systems with ease. Let's embark on this journey together and unlock the true potential of spatial and data analytics!
 
 ## Projects
 -
