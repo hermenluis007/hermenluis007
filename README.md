@@ -12,8 +12,11 @@ But my learning didn't stop there. Over the years, I've taken several specialize
 My professional journey has been nothing short of exciting. From working as a GIS Officer at International NGO Safety Organisation (INSO) to serving as a Geographic Information Systems Analyst at Spatial Development Programme , I've had the privilege of contributing to meaningful projects that make a difference.
 
 #### Passion for Teaching
-One of the highlights of my career has been sharing my knowledge with others. As a Geographic Information Systems Trainer at Agência de Desenvolvimento do Vale Zambeze and various other organizations, I've had the opportunity to empower individuals with the skills they need to excel in GIS.
-- 💬 Ask me about ...
+One of the highlights of my career has been sharing my knowledge with others. As a Geographic Information Systems Trainer at Agência de Desenvolvimento do Vale Zambeze and various other organizations, I've had the opportunity to empower individuals with the skills they need to excel in Data Analytics and GIS.
+
+#### Expertise and Skills
+My expertise lies in spatial data analysis, cartography, remote sensing, and more. Whether it's analyzing complex datasets or creating visually stunning maps, I thrive on turning data into actionable insights that drive informed decision-making.
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
