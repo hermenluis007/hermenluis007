@@ -5,7 +5,7 @@
  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
  ![KNIME](https://img.shields.io/badge/KNIME-FFD500?style=for-the-badge&logo=knime&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-[![Follow me](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/hermenluis007)
+[![Follow me](https://img.shields.io/github/followers/username?=Follow&style=social)](https://github.com/hermenluis007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hermenluis)
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:hermenluis@gmail.com)
 
