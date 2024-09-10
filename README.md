@@ -1,28 +1,59 @@
-### Hi there 👋
+# Hermenegildo Luis
 
-##  Introduction
+[![Follow me](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hermenluis)
+[![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:your-email@example.com)
 
-I'm Hermenegildo Luis, a passionate Geographic Information Systems (GIS) professional with a knack for turning data into actionable insights. With over a decade of experience in the field, I've had the privilege of working on diverse projects that span from aiding humanitarian efforts to supporting government development programs. My journey in GIS has been nothing short of exciting, and I'm always eager to tackle new challenges and push the boundaries of what's possible with spatial data.
+---
 
-####  Education
-I kicked off my journey at the University Eduardo Mondlane, where I delved into the fascinating world of Geographic Information Science and Cartography. From 2009 to 2013, I immersed myself in courses like spatial analysis, data management, and GIS applications, earning myself a Bachelor's degree. Currently, I'm pursuing a Master's degree in Geographic Information Science and Systems at the Nova Information Management School, University Nova de Lisboa, further honing my skills and expertise in the field.
-But my learning didn't stop there. Over the years, I've taken several specialized courses and trainings to enhance my skills and stay up-to-date with the latest trends in GIS technology. From data analytics to geodatabase management, I've dabbled in it all, gaining valuable insights and practical knowledge along the way.
+🌍 **Senior Data Analyst | Geospatial & Remote Sensing Specialist**  
+🌱 Focused on REDD+ Projects, FPIC Processes, and Community Engagement  
+💼 Currently working at BioCarbon Partners (BCP), Mozambique
 
-####  Professional Journey
-My professional journey has been nothing short of exciting. From working as a GIS Officer at International NGO Safety Organisation (INSO) to serving as a Geographic Information Systems Analyst at Spatial Development Programme , I've had the privilege of contributing to meaningful projects that make a difference.
+---
 
-#### Passion for Teaching
-One of the highlights of my career has been sharing my knowledge with others. As a Geographic Information Systems Trainer at Agência de Desenvolvimento do Vale Zambeze and various other organizations, I've had the opportunity to empower individuals with the skills they need to excel in Data Analytics and GIS.
+## 🚀 Open Source Projects
 
-#### Expertise and Skills
-My expertise lies in spatial data analysis, cartography, remote sensing, and more. Whether it's analyzing complex datasets or creating visually stunning maps, I thrive on turning data into actionable insights that drive informed decision-making.
+Here are some of the open source projects I've worked on:
 
-#### Conclusion
-In a nutshell, I'm Hermenegildo Luis - your friendly neighborhood Data and GIS Analyst. With a blend of academic knowledge, practical skills, and a passion for making a difference, I'm here to help you navigate the world of Data and Geographic Information Systems with ease. Let's embark on this journey together and unlock the true potential of spatial and data analytics!
+- **[FPIC Process Dashboard for REDD+](https://github.com/username/fpic-dashboard-redd-plus)**: Power BI dashboard visualizing the FPIC processes in REDD+ projects.
+- **[Deforestation Risk Mapping for GLRP](https://github.com/username/deforestation-risk-mapping-glrp)**: Spatial analysis and modeling of deforestation risk in Mozambique.
+- **[Distance Decay Analysis for Financial Inclusion](https://github.com/username/distance-decay-financial-inclusion)**: Geospatial analysis of financial service accessibility.
 
-## Projects
--
+## 📝 Latest Blog Posts
+
+- [Interactive Visualization of Satellite Time Series](https://link-to-blog-post)
+- [Segment Geospatial Presentation on SERVIR](https://link-to-blog-post)
+- [Remote Sensing Image Segmentation Using Command Line Prompts](https://link-to-blog-post)
+- [New Book Release: Earth Engine & Geemap](https://link-to-blog-post)
+- [Creating Satellite Timelapse with Streamlit and Earth Engine](https://link-to-blog-post)
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hermenluis)
+- [GitHub](https://github.com/username)
+- [Email](mailto:your-email@example.com)
+
+---
+
+## 🛠️ Tools & Technologies
+
+| **Category**           | **Technologies**                                                                                       |
+|------------------------|-------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **GIS & Remote Sensing**  | ![ArcGIS](https://img.shields.io/badge/ArcGIS-56A4D3?style=for-the-badge&logo=arcgis&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-3A6F41?style=for-the-badge&logo=qgis&logoColor=white) |
+| **Data Analysis & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Data Science Tools**   | ![KNIME](https://img.shields.io/badge/KNIME-FFD500?style=for-the-badge&logo=knime&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+## 👨‍💻 About Me
+
+I am passionate about leveraging geospatial data and remote sensing to solve environmental challenges. My work primarily revolves around REDD+ initiatives, where I apply advanced GIS techniques, spatial modeling, and community engagement tools to drive positive impacts on forest conservation and sustainable land use.
+
+---
 
 
-
-## Demos
