@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:hermenluis@gmail.com)
 
 ---
-Hermenegildo Luis, a passionate Geospatial Data Science professional with a knack for turning data into actionable insights. With over a decade of experience in the field, I've had the privilege of working on diverse projects that span from aiding humanitarian efforts to supporting government development programs. My journey in GIS has been nothing short of exciting, and I'm always eager to tackle new challenges and push the boundaries of what's possible with spatial data.
+Hermenegildo Luis, is a passionate Geospatial Data Science professional with a knack for turning data into actionable insights. With over a decade of experience in the field, I've had the privilege of working on diverse projects that span from aiding humanitarian efforts to supporting government development programs. My journey in GIS has been nothing short of exciting, and I'm always eager to tackle new challenges and push the boundaries of what's possible with spatial data.
 
 ## 🚀 Projects
 
