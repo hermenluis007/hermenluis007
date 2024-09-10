@@ -1,4 +1,4 @@
-# Hermenegildo Luis
+# Hermenegildo Luís
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-56A4D3?style=for-the-badge&logo=arcgis&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-3A6F41?style=for-the-badge&logo=qgis&logoColor=white) 
